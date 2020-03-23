@@ -1,0 +1,27 @@
+.form-control{
+    
+    background-color: #4aa3a3;
+
+    
+    box-shadow: 1px 1px 10px 2px #3a5f5f;
+    font-family: Russo One;
+    font-size: 15px;
+}
+#previewer {
+    background-color: #c0d8d8;
+    border: 1px solid #1d2f2f;
+    box-shadow: 1px 1px 10px 2px #3a5f5f;
+    border-top: none;
+    width: 800px;
+    margin: 20px auto;
+    min-height: 200px;
+    overflow-wrap: break-word;
+    padding-right: 20px;
+
+}
+h1{
+    text-align: center;
+}
+#editor1{
+    text-align: center;
+}
