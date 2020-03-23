@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactMark/static/css/main.b2128c5f.chunk.css",
+    "main.js": "/ReactMark/static/js/main.d45007f9.chunk.js",
+    "main.js.map": "/ReactMark/static/js/main.d45007f9.chunk.js.map",
+    "runtime-main.js": "/ReactMark/static/js/runtime-main.509cea3a.js",
+    "runtime-main.js.map": "/ReactMark/static/js/runtime-main.509cea3a.js.map",
+    "static/js/2.d8aff80a.chunk.js": "/ReactMark/static/js/2.d8aff80a.chunk.js",
+    "static/js/2.d8aff80a.chunk.js.map": "/ReactMark/static/js/2.d8aff80a.chunk.js.map",
+    "index.html": "/ReactMark/index.html",
+    "precache-manifest.d21bb33c24736e0572139766bb6ce910.js": "/ReactMark/precache-manifest.d21bb33c24736e0572139766bb6ce910.js",
+    "service-worker.js": "/ReactMark/service-worker.js",
+    "static/css/main.b2128c5f.chunk.css.map": "/ReactMark/static/css/main.b2128c5f.chunk.css.map",
+    "static/js/2.d8aff80a.chunk.js.LICENSE.txt": "/ReactMark/static/js/2.d8aff80a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.509cea3a.js",
+    "static/js/2.d8aff80a.chunk.js",
+    "static/css/main.b2128c5f.chunk.css",
+    "static/js/main.d45007f9.chunk.js"
+  ]
+}
